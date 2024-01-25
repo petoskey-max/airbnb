@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/petoskey-max/airbnb/static/css/main.74198ff5.css",
+    "main.js": "/petoskey-max/airbnb/static/js/main.2d56f2db.js",
+    "static/media/seven.jpg": "/petoskey-max/airbnb/static/media/seven.90facb25282cf3f4ee0e.jpg",
+    "static/media/five.jpg": "/petoskey-max/airbnb/static/media/five.a9d495322b8ad8fd9faa.jpg",
+    "static/media/two.jpg": "/petoskey-max/airbnb/static/media/two.0179aca34ee57e12a301.jpg",
+    "static/media/nine.jpg": "/petoskey-max/airbnb/static/media/nine.51d6a2a5e2cc9684d3ef.jpg",
+    "static/media/eight.jpg": "/petoskey-max/airbnb/static/media/eight.64485810930edeaa07b9.jpg",
+    "static/media/ten.jpg": "/petoskey-max/airbnb/static/media/ten.551aa3f98e254aa03222.jpg",
+    "static/media/three.jpg": "/petoskey-max/airbnb/static/media/three.7e67169551782130317f.jpg",
+    "static/media/six.jpg": "/petoskey-max/airbnb/static/media/six.131a278ae87a7ae431f3.jpg",
+    "static/media/four.jpg": "/petoskey-max/airbnb/static/media/four.1bf100d36eb26438349f.jpg",
+    "static/media/airbnb.svg": "/petoskey-max/airbnb/static/media/airbnb.96e62745de61aae4432961de96cd3905.svg",
+    "index.html": "/petoskey-max/airbnb/index.html",
+    "main.74198ff5.css.map": "/petoskey-max/airbnb/static/css/main.74198ff5.css.map",
+    "main.2d56f2db.js.map": "/petoskey-max/airbnb/static/js/main.2d56f2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74198ff5.css",
+    "static/js/main.2d56f2db.js"
+  ]
+}
