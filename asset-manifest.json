@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74198ff5.css",
+    "main.js": "/static/js/main.5778428b.js",
+    "static/media/seven.jpg": "/static/media/seven.90facb25282cf3f4ee0e.jpg",
+    "static/media/five.jpg": "/static/media/five.a9d495322b8ad8fd9faa.jpg",
+    "static/media/two.jpg": "/static/media/two.0179aca34ee57e12a301.jpg",
+    "static/media/nine.jpg": "/static/media/nine.51d6a2a5e2cc9684d3ef.jpg",
+    "static/media/eight.jpg": "/static/media/eight.64485810930edeaa07b9.jpg",
+    "static/media/ten.jpg": "/static/media/ten.551aa3f98e254aa03222.jpg",
+    "static/media/three.jpg": "/static/media/three.7e67169551782130317f.jpg",
+    "static/media/six.jpg": "/static/media/six.131a278ae87a7ae431f3.jpg",
+    "static/media/four.jpg": "/static/media/four.1bf100d36eb26438349f.jpg",
+    "static/media/airbnb.svg": "/static/media/airbnb.96e62745de61aae4432961de96cd3905.svg",
+    "index.html": "/index.html",
+    "main.74198ff5.css.map": "/static/css/main.74198ff5.css.map",
+    "main.5778428b.js.map": "/static/js/main.5778428b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74198ff5.css",
+    "static/js/main.5778428b.js"
+  ]
+}
